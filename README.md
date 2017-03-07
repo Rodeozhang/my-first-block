@@ -1,2 +1,6 @@
 # my-first-block
 我的第一篇博客
+##学习资源
+ 神兵利器
+##学校网址
+ www.zjhu.edu.cn
